@@ -1,7 +1,5 @@
 # Terms-of-Service
 
-TERMS OF SERVICE
-
 Vítejte v naší aplikaci Notepad. Tento dokument představuje podmínky, za kterých můžete používat naši aplikaci. Použitím aplikace Notepad souhlasíte s těmito podmínkami.
 
 Použití aplikace
